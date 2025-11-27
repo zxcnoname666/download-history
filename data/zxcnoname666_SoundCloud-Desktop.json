@@ -58,5 +58,35 @@
         "count": 522
       }
     ]
+  },
+  {
+    "date": "2025-11-27",
+    "total": 60548,
+    "formats": [
+      {
+        "ext": ".exe",
+        "count": 39466
+      },
+      {
+        "ext": ".asar",
+        "count": 13007
+      },
+      {
+        "ext": ".dmg",
+        "count": 4084
+      },
+      {
+        "ext": ".zip",
+        "count": 2341
+      },
+      {
+        "ext": ".sig",
+        "count": 1122
+      },
+      {
+        "ext": ".appimage",
+        "count": 528
+      }
+    ]
   }
 ]
