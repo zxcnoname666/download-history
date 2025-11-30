@@ -52,10 +52,10 @@
 
   <!-- Stats -->
   <text x="780" y="25" text-anchor="end" fill="#58a6ff" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="600">
-    61.2K total
+    61.7K total
   </text>
   <text x="780" y="42" text-anchor="end" fill="#3fb950" font-family="system-ui, -apple-system, sans-serif" font-size="12">
-    +461 (+0.8%)
+    +476 (+0.8%)
   </text>
 
   <!-- Grid lines -->
@@ -87,22 +87,22 @@
   
     <text x="50" y="269" text-anchor="end"
           fill="#8b949e" font-family="system-ui, -apple-system, sans-serif" font-size="11">
-      15.3K
+      15.4K
     </text>
   
     <text x="50" y="194" text-anchor="end"
           fill="#8b949e" font-family="system-ui, -apple-system, sans-serif" font-size="11">
-      30.6K
+      30.9K
     </text>
   
     <text x="50" y="119" text-anchor="end"
           fill="#8b949e" font-family="system-ui, -apple-system, sans-serif" font-size="11">
-      45.9K
+      46.3K
     </text>
   
     <text x="50" y="44" text-anchor="end"
           fill="#8b949e" font-family="system-ui, -apple-system, sans-serif" font-size="11">
-      61.2K
+      61.7K
     </text>
   
 
@@ -113,46 +113,53 @@
       Nov 25
     </text>
   
-    <text x="235" y="360" text-anchor="middle"
+    <text x="200" y="360" text-anchor="middle"
           fill="#8b949e" font-family="system-ui, -apple-system, sans-serif" font-size="11">
       Nov 26
     </text>
   
-    <text x="410" y="360" text-anchor="middle"
+    <text x="340" y="360" text-anchor="middle"
           fill="#8b949e" font-family="system-ui, -apple-system, sans-serif" font-size="11">
       Nov 27
     </text>
   
-    <text x="585" y="360" text-anchor="middle"
+    <text x="480" y="360" text-anchor="middle"
           fill="#8b949e" font-family="system-ui, -apple-system, sans-serif" font-size="11">
       Nov 28
     </text>
   
-    <text x="760" y="360" text-anchor="middle"
+    <text x="620" y="360" text-anchor="middle"
           fill="#8b949e" font-family="system-ui, -apple-system, sans-serif" font-size="11">
       Nov 29
+    </text>
+  
+    <text x="760" y="360" text-anchor="middle"
+          fill="#8b949e" font-family="system-ui, -apple-system, sans-serif" font-size="11">
+      Nov 30
     </text>
   
 
   <!-- Area under line -->
   <path d="M 60 340
-    L 60.00 45.34 L 235.00 44.62 L 410.00 43.39 L 585.00 42.26 L 760.00 40.00
+    L 60.00 47.61 L 200.00 46.90 L 340.00 45.68 L 480.00 44.55 L 620.00 42.31 L 760.00 40.00
     L 760 340
     Z" fill="url(#areaGradient)" class="area-path"/>
 
   <!-- Main line with glow -->
-  <path d="M 60.00 45.34 L 235.00 44.62 L 410.00 43.39 L 585.00 42.26 L 760.00 40.00" fill="none" stroke="#3b82f6" stroke-width="3"
+  <path d="M 60.00 47.61 L 200.00 46.90 L 340.00 45.68 L 480.00 44.55 L 620.00 42.31 L 760.00 40.00" fill="none" stroke="#3b82f6" stroke-width="3"
         stroke-linecap="round" stroke-linejoin="round" filter="url(#glow)" class="line-path"/>
 
   <!-- Data points -->
   
-    <circle cx="60" cy="45.33956009862675" r="4" fill="#3b82f6" stroke="#0d1117" stroke-width="2" class="data-point"/>
+    <circle cx="60" cy="47.612165205696954" r="4" fill="#3b82f6" stroke="#0d1117" stroke-width="2" class="data-point"/>
   
-    <circle cx="235" cy="44.61945428716058" r="4" fill="#3b82f6" stroke="#0d1117" stroke-width="2" class="data-point"/>
+    <circle cx="200" cy="46.89761329941507" r="4" fill="#3b82f6" stroke="#0d1117" stroke-width="2" class="data-point"/>
   
-    <circle cx="410" cy="43.39478453976909" r="4" fill="#3b82f6" stroke="#0d1117" stroke-width="2" class="data-point"/>
+    <circle cx="340" cy="45.68238896900368" r="4" fill="#3b82f6" stroke="#0d1117" stroke-width="2" class="data-point"/>
   
-    <circle cx="585" cy="42.258291014189865" r="4" fill="#3b82f6" stroke="#0d1117" stroke-width="2" class="data-point"/>
+    <circle cx="480" cy="44.55466079038189" r="4" fill="#3b82f6" stroke="#0d1117" stroke-width="2" class="data-point"/>
+  
+    <circle cx="620" cy="42.31378712510332" r="4" fill="#3b82f6" stroke="#0d1117" stroke-width="2" class="data-point"/>
   
     <circle cx="760" cy="40" r="4" fill="#3b82f6" stroke="#0d1117" stroke-width="2" class="data-point"/>
   
