@@ -240,5 +240,43 @@
         "count": 18
       }
     ]
+  },
+  {
+    "date": "2025-12-02",
+    "total": 62442,
+    "formats": [
+      {
+        "ext": ".exe",
+        "count": 40575
+      },
+      {
+        "ext": ".asar",
+        "count": 13007
+      },
+      {
+        "ext": ".dmg",
+        "count": 4153
+      },
+      {
+        "ext": ".zip",
+        "count": 2552
+      },
+      {
+        "ext": ".sig",
+        "count": 1122
+      },
+      {
+        "ext": ".appimage",
+        "count": 618
+      },
+      {
+        "ext": ".rpm",
+        "count": 393
+      },
+      {
+        "ext": ".deb",
+        "count": 22
+      }
+    ]
   }
 ]
