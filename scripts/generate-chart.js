@@ -226,6 +226,11 @@ function main() {
     generateChart(repo);
   }
 
+  // Copy config.json to docs/ for GitHub Pages (symlinks don't work on Pages)
+  const docsConfigPath = path.join(DOCS_DIR, 'config.json');
+  fs.writeFileSync(docsConfigPath, JSON.stringify(config, null, 2));
+  console.log('✓ Copied config.json to docs/');
+
   console.log('\n✓ All charts generated');
 }
 
