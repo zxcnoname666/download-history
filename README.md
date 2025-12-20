@@ -24,7 +24,7 @@
 ```json
 {
   "repos": [
-    "zxcnoname666/SoundCloud-Desktop"
+    "loli669/SoundCloud-Desktop"
   ]
 }
 ```
@@ -68,10 +68,10 @@ npm run update
 ### Добавление бейджа в README
 
 ```markdown
-![Downloads](https://zxcnoname666.github.io/download-history/zxcnoname666_SoundCloud-Desktop.svg)
+![Downloads](https://loli669.github.io/download-history/loli669_SoundCloud-Desktop.svg)
 ```
 
-**Живой пример**: https://zxcnoname666.github.io/download-history/
+**Живой пример**: https://loli669.github.io/download-history/
 
 ## Структура проекта
 
@@ -126,7 +126,7 @@ npm run update
 
 ## Пример использования
 
-Этот репозиторий отслеживает скачивания [SoundCloud-Desktop](https://github.com/zxcnoname666/SoundCloud-Desktop):
+Этот репозиторий отслеживает скачивания [SoundCloud-Desktop](https://github.com/loli669/SoundCloud-Desktop):
 - **60K+ общих скачиваний**
 - **62 релиза**
 - Топ-формат: `.exe` (39K скачиваний)
