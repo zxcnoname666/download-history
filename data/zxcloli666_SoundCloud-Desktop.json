@@ -1494,5 +1494,43 @@
         "count": 122
       }
     ]
+  },
+  {
+    "date": "2026-01-04",
+    "total": 71980,
+    "formats": [
+      {
+        "ext": ".exe",
+        "count": 46171
+      },
+      {
+        "ext": ".asar",
+        "count": 13013
+      },
+      {
+        "ext": ".dmg",
+        "count": 4537
+      },
+      {
+        "ext": ".zip",
+        "count": 3776
+      },
+      {
+        "ext": ".rpm",
+        "count": 2074
+      },
+      {
+        "ext": ".appimage",
+        "count": 1163
+      },
+      {
+        "ext": ".sig",
+        "count": 1122
+      },
+      {
+        "ext": ".deb",
+        "count": 124
+      }
+    ]
   }
 ]
